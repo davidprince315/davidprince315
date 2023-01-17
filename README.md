@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidprince315
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning about linux and programing in c
+- 🌱 I’m currently to program in java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ david.prince@student.judsonu.edu
 
